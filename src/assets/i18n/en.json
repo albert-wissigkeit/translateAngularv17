@@ -1,0 +1,21 @@
+{
+    "HOME": {
+      "TITLE": "Welcome to Our Application",
+      "DESCRIPTION": "This is an example application to demonstrate ngx-translate.",
+      "SELECT": "Select Language"
+    },
+    "MENU": {
+      "HOME": "Home",
+      "ABOUT": "About",
+      "CONTACT": "Contact"
+    },
+    "BUTTON": {
+      "SAVE": "Save",
+      "CANCEL": "Cancel"
+    },
+    "MESSAGES": {
+      "SUCCESS": "Operation completed successfully!",
+      "ERROR": "Something went wrong, please try again."
+    }
+  }
+  
