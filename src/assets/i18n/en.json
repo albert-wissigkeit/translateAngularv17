@@ -16,6 +16,18 @@
     "MESSAGES": {
       "SUCCESS": "Operation completed successfully!",
       "ERROR": "Something went wrong, please try again."
+    },
+    "TESTatFOR": {
+      "NAME": "testname1english 1",
+      "ALTER": 20
+    },
+    "TESTatFOR2": {
+      "NAME": "englishname2",
+      "ALTER": "fourty2"
+    },
+    "TESTatFOR3": {
+      "NAME": "testname333333333de3333333333333333",
+      "ALTER": "vierzigde3333333333333333333333333333333"
     }
   }
   

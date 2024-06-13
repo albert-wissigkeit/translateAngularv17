@@ -16,6 +16,18 @@
     "MESSAGES": {
       "SUCCESS": "Vorgang erfolgreich abgeschlossen!",
       "ERROR": "Etwas ist schief gelaufen, bitte versuchen Sie es erneut."
+    },
+    "TESTatFOR": {
+      "NAME": "testname1de",
+      "ALTER": "zwanzigde"
+    },
+    "TESTatFOR2": {
+      "NAME": "testname2de",
+      "ALTER": "vierzigde"
+    },
+    "TESTatFOR3": {
+      "NAME": "testname333333333de",
+      "ALTER": "vierzigde3333333333333"
     }
   }
   

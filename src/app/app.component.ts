@@ -26,6 +26,11 @@ export class AppComponent {
     // const defaultLang = browserLang && browserLang.match(/en|de/) ? browserLang : 'en';
     // this.translate.use(defaultLang);
   }
+
+
+
+
+
 }
 
 bootstrapApplication(AppComponent, {
